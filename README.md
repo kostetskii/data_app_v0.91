@@ -4,8 +4,8 @@ Tiny data analysis utility (extraction, extrapolation and statistics)
 This code extracts data from many .csv's, sorts it and gives a possibility to 
 - extrapolate
 - calculate statistics based on:
-      - all input data
-      - divide data by any number of groups and calculate for each group. 
+      -all input data
+      -divide data by any number of groups and calculate for each group. 
 - plot data and statistics
 - save .csv with the results of calculation
 
