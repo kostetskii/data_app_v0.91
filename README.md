@@ -1,7 +1,7 @@
 # data_app_v0.91
 Tiny data analysis utility (extraction, extrapolation and statistics) 
 
-This code extracts data from many .csv's, sorts it and gives a possibility to 
+This code is written in MATLAB and can extract data from many .csv's, sort it and gives a possibility to 
 - extrapolate data
 - calculate statistics based on all input/extrapolated data or divide data by any number of groups and calculate it for each group. 
 - plot data and statistics
